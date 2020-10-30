@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/macbook/Downloads/MPFlutterChart-master/mp_chart/example/build/url_launcher/intermediates/res/merged/debug/drawable-xhdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/macbook/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/3098933b4e612c9e374f4d8e94bdd5a9/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/macbook/Downloads/MPFlutterChart-master/mp_chart/example/build/url_launcher/intermediates/res/merged/debug/drawable-xhdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/macbook/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/3098933b4e612c9e374f4d8e94bdd5a9/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/macbook/Downloads/MPFlutterChart-master/mp_chart/example/build/url_launcher/intermediates/res/merged/debug/drawable-xhdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/macbook/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/3098933b4e612c9e374f4d8e94bdd5a9/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/macbook/Downloads/MPFlutterChart-master/mp_chart/example/build/url_launcher/intermediates/res/merged/debug/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/macbook/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/3098933b4e612c9e374f4d8e94bdd5a9/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/macbook/Downloads/MPFlutterChart-master/mp_chart/example/build/url_launcher/intermediates/res/merged/debug/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/macbook/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/3098933b4e612c9e374f4d8e94bdd5a9/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    }
+]
